@@ -1,0 +1,5 @@
+@00
+0000_0001  //1800  FN1£º  //data strage for 1st Fib.No
+0000_0000  //1801  FN2£º  //data storge for 2nd Fib.No
+0000_0000  //1802  TEMP: //temproray data storage
+1001_0000  //1803  LIMIT: //max value to calulate 144(dec)

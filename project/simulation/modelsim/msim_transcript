@@ -1,0 +1,268 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do cpu_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:53 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v 
+# -- Compiling module machinectl
+# 
+# Top level modules:
+# 	machinectl
+# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:54 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v 
+# -- Compiling module machine
+# 
+# Top level modules:
+# 	machine
+# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:54 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v 
+# -- Compiling module irregister
+# 
+# Top level modules:
+# 	irregister
+# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:54 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v 
+# -- Compiling module datactl
+# 
+# Top level modules:
+# 	datactl
+# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:54 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v 
+# -- Compiling module counter
+# 
+# Top level modules:
+# 	counter
+# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:54 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v 
+# -- Compiling module CLKSOURCE
+# 
+# Top level modules:
+# 	CLKSOURCE
+# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:54 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:55 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v 
+# -- Compiling module adr
+# 
+# Top level modules:
+# 	adr
+# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:55 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v 
+# -- Compiling module accum
+# 
+# Top level modules:
+# 	accum
+# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:55 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v 
+# -- Compiling module CLKSOURCE
+# -- Compiling module accum
+# -- Compiling module adr
+# -- Compiling module alu
+# -- Compiling module machine
+# -- Compiling module counter
+# -- Compiling module machinectl
+# -- Compiling module irregister
+# -- Compiling module datactl
+# -- Compiling module cpu
+# 
+# Top level modules:
+# 	cpu
+# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:55 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v 
+# -- Compiling module cputop
+# 
+# Top level modules:
+# 	cputop
+# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:55 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v 
+# -- Compiling module addr_decode
+# 
+# Top level modules:
+# 	addr_decode
+# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:55 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v 
+# -- Compiling module ram
+# 
+# Top level modules:
+# 	ram
+# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 02:09:55 on Mar 06,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v 
+# -- Compiling module rom
+# 
+# Top level modules:
+# 	rom
+# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  cputop
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" cputop 
+# Start time: 02:09:57 on Mar 06,2020
+# Loading work.cputop
+# Loading work.cpu
+# Loading work.CLKSOURCE
+# Loading work.irregister
+# Loading work.accum
+# Loading work.alu
+# Loading work.machinectl
+# Loading work.machine
+# Loading work.datactl
+# Loading work.adr
+# Loading work.counter
+# Loading work.ram
+# Loading work.rom
+# Loading work.addr_decode
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ********************************************
+#   * THE FOLLOW DEBUG TASK ARE AVAILABLE :*   
+# *"test1;"to load the 1st diagnostic program. *
+# *"test2;"to load the 2nd diagnostic program. *
+# *"test3;"to load the Fibonacci program. *
+# *******************************************
+# 
+# rom loaded successfully!
+# ram loaded successfully!
+# 
+# ***RUNNING CPU test1 - THE BASIC CPU Diagnostic Program ***
+# 
+#    TIME  PC  INSTR ADDR DATA
+#  -------- -----  ------ ----- -----
+#     1110.0ns  001   JMP  07c  zzzz
+#     1710.0ns  07d   JMP  001  zzzz
+#     2310.0ns  002   LDA  800  0000
+#     2910.0ns  003   SKZ  000  zzzz
+#     3510.0ns  005   LDA  801  0009
+#     4110.0ns  006   SKZ  000  zzzz
+#     4710.0ns  007   JMP  008  zzzz
+#     5310.0ns  009   STO  802  0009
+#     5910.0ns  00a   LDA  800  0000
+#     6510.0ns  00b   STO  802  0000
+#     7110.0ns  00c   LDA  802  0000
+#     7710.0ns  00d   SKZ  000  zzzz
+#     8310.0ns  00f   XOR  801  0009
+#     8910.0ns  010   SKZ  000  zzzz
+#     9510.0ns  011   JMP  012  zzzz
+#    10110.0ns  013   XOR  801  0009
+#    10710.0ns  014   STO  805  0000
+#    11310.0ns  015  PUSH  000  d07c
+#    11910.0ns  016   JMP  08c  zzzz
+#    12510.0ns  08d   LDA  800  0000
+#    13110.0ns  08e   MUL  801  0009
+#    13710.0ns  08f   STO  805  0000
+#    14310.0ns  090   JMP  016  zzzz
+#    14910.0ns  017   POP  000  d07c
+#    15510.0ns  018   STO  805  0000
+#    16110.0ns  019   SKZ  000  zzzz
+#    16710.0ns  01b   LDA  801  0009
+#    17310.0ns  01c   SUB  800  0000
+#    17910.0ns  01d   STO  805  0009
+#    18510.0ns  01e   NOT  802  0000
+#    19110.0ns  01f   STO  805  ffff
+#    19710.0ns  020    RL  803  000d
+#    20310.0ns  021   STO  805  001a
+#    20910.0ns  022   HLT  000  zzzz
+# 
+# ***********************************************
+# *** A HALT INSTRUCTION WAS PROCESSED!!!**
+# ************************************************
+# 
+#    21510.0ns  023  ????  xxx  zzzz
+#    22110.0ns  024  ????  xxx  zzzz
+#    22710.0ns  025  ????  xxx  zzzz
+#    23310.0ns  026  ????  xxx  zzzz
+#    23910.0ns  027  ????  xxx  zzzz
+#    24510.0ns  028  ????  xxx  zzzz
+#    25110.0ns  029  ????  xxx  zzzz
+#    25710.0ns  02a  ????  xxx  zzzz
+#    26310.0ns  02b  ????  xxx  zzzz
+#    26910.0ns  02c  ????  xxx  zzzz
+#    27510.0ns  02d  ????  xxx  zzzz
+#    28110.0ns  02e  ????  xxx  zzzz
+#    28710.0ns  02f  ????  xxx  zzzz
+#    29310.0ns  030  ????  xxx  zzzz
+#    29910.0ns  031  ????  xxx  zzzz
+#    30510.0ns  032  ????  xxx  zzzz
+#    31110.0ns  033  ????  xxx  zzzz
+#    31710.0ns  034  ????  xxx  zzzz
+#    32310.0ns  035  ????  xxx  zzzz
+#    32910.0ns  036  ????  xxx  zzzz
+#    33510.0ns  037  ????  xxx  zzzz
+#    34110.0ns  038  ????  xxx  zzzz
+#    34710.0ns  039  ????  xxx  zzzz
+# ** Note: $stop    : E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v(44)
+#    Time: 35241 ns  Iteration: 0  Instance: /cputop
+# Break in Module cputop at E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v line 44
+# End time: 02:10:34 on Mar 06,2020, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 0

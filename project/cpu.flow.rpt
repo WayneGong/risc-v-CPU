@@ -1,0 +1,129 @@
+Flow report for cpu
+Fri Mar 06 01:57:32 2020
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++--------------------------------------------------------------------------------------+
+; Flow Summary                                                                         ;
++------------------------------------+-------------------------------------------------+
+; Flow Status                        ; Successful - Fri Mar 06 01:57:32 2020           ;
+; Quartus Prime Version              ; 18.1.0 Build 625 09/12/2018 SJ Standard Edition ;
+; Revision Name                      ; cpu                                             ;
+; Top-level Entity Name              ; cpu                                             ;
+; Family                             ; Cyclone IV E                                    ;
+; Total logic elements               ; 302                                             ;
+;     Total combinational functions  ; 286                                             ;
+;     Dedicated logic registers      ; 99                                              ;
+; Total registers                    ; 99                                              ;
+; Total pins                         ; 62                                              ;
+; Total virtual pins                 ; 0                                               ;
+; Total memory bits                  ; 0                                               ;
+; Embedded Multiplier 9-bit elements ; 2                                               ;
+; Total PLLs                         ; 0                                               ;
++------------------------------------+-------------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 03/06/2020 01:57:10 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; cpu                 ;
++-------------------+---------------------+
+
+
++------------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                             ;
++--------------------------------------+----------------------------------------+---------------+-------------+----------------+
+; Assignment Name                      ; Value                                  ; Default Value ; Entity Name ; Section Id     ;
++--------------------------------------+----------------------------------------+---------------+-------------+----------------+
+; COMPILER_SIGNATURE_ID                ; 79871130321236.158343102910608         ; --            ; --          ; --             ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --          ; cputop         ;
+; EDA_NATIVELINK_SIMULATION_TEST_BENCH ; cputop                                 ; --            ; --          ; eda_simulation ;
+; EDA_OUTPUT_DATA_FORMAT               ; Verilog Hdl                            ; --            ; --          ; eda_simulation ;
+; EDA_SIMULATION_TOOL                  ; ModelSim-Altera (Verilog)              ; <None>        ; --          ; --             ;
+; EDA_TEST_BENCH_ENABLE_STATUS         ; TEST_BENCH_MODE                        ; --            ; --          ; eda_simulation ;
+; EDA_TEST_BENCH_FILE                  ; ../sim/cputop.v                        ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../sim/test1.dat                       ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../sim/test1.pro                       ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../sim/test2.dat                       ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../sim/test2.pro                       ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../sim/test3.dat                       ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../sim/test3.pro                       ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../src/addr_decode.v                   ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../src/ram.v                           ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_FILE                  ; ../src/rom.v                           ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_MODULE_NAME           ; cputop                                 ; --            ; --          ; cputop         ;
+; EDA_TEST_BENCH_NAME                  ; cputop                                 ; --            ; --          ; eda_simulation ;
+; EDA_TIME_SCALE                       ; 1 ps                                   ; --            ; --          ; eda_simulation ;
+; MAX_CORE_JUNCTION_TEMP               ; 85                                     ; --            ; --          ; --             ;
+; MIN_CORE_JUNCTION_TEMP               ; 0                                      ; --            ; --          ; --             ;
+; PARTITION_COLOR                      ; -- (Not supported for targeted family) ; --            ; --          ; Top            ;
+; PARTITION_FITTER_PRESERVATION_LEVEL  ; -- (Not supported for targeted family) ; --            ; --          ; Top            ;
+; PARTITION_NETLIST_TYPE               ; -- (Not supported for targeted family) ; --            ; --          ; Top            ;
+; USE_GENERATED_PHYSICAL_CONSTRAINTS   ; Off                                    ; --            ; --          ; eda_blast_fpga ;
++--------------------------------------+----------------------------------------+---------------+-------------+----------------+
+
+
++--------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                        ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis ; 00:00:22     ; 1.0                     ; 4730 MB             ; 00:00:43                           ;
+; Total                ; 00:00:22     ; --                      ; --                  ; 00:00:43                           ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                    ;
++----------------------+------------------+------------+------------+----------------+
+; Module Name          ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++----------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis ; DESKTOP-FMRBH1L  ; Windows 10 ; 10.0       ; x86_64         ;
++----------------------+------------------+------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off cpu -c cpu
+
+
+

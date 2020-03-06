@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/imports/src/CLKSOURCE.v" \
+"../../../../project_1.srcs/sources_1/imports/src/accum.v" \
+"../../../../project_1.srcs/sim_1/imports/sim/addr_decode.v" \
+"../../../../project_1.srcs/sources_1/imports/src/adr.v" \
+"../../../../project_1.srcs/sources_1/imports/src/alu.v" \
+"../../../../project_1.srcs/sources_1/imports/src/counter.v" \
+"../../../../project_1.srcs/sources_1/imports/src/cpu.v" \
+"../../../../project_1.srcs/sources_1/imports/src/datactl.v" \
+"../../../../project_1.srcs/sources_1/imports/src/irregister.v" \
+"../../../../project_1.srcs/sources_1/imports/src/machine.v" \
+"../../../../project_1.srcs/sources_1/imports/src/machinectl.v" \
+"../../../../project_1.srcs/sim_1/imports/sim/ram.v" \
+"../../../../project_1.srcs/sim_1/imports/sim/rom.v" \
+"../../../../project_1.srcs/sim_1/imports/sim/cputop.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,19 @@
+
+State Machine - |cpu|machine:m_machine|state
+Name state.101 state.100 state.011 state.010 state.001 state.000 
+state.000 0 0 0 0 0 0 
+state.001 0 0 0 0 1 1 
+state.010 0 0 0 1 0 1 
+state.011 0 0 1 0 0 1 
+state.100 0 1 0 0 0 1 
+state.101 1 0 0 0 0 1 
+
+State Machine - |cpu|CLKSOURCE:m_CLKSOURCE|state
+Name state.idle state.S6 state.S5 state.S4 state.S3 state.S2 state.S1 
+state.idle 0 0 0 0 0 0 0 
+state.S1 1 0 0 0 0 0 1 
+state.S2 1 0 0 0 0 1 0 
+state.S3 1 0 0 0 1 0 0 
+state.S4 1 0 0 1 0 0 0 
+state.S5 1 0 1 0 0 0 0 
+state.S6 1 1 0 0 0 0 0 

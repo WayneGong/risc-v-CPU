@@ -1,0 +1,28 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/CLKSOURCE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLKSOURCE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/accum.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module accum
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sim_1/imports/sim/addr_decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addr_decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/adr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/datactl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datactl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/irregister.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module irregister
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/machine.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module machine
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sources_1/imports/src/machinectl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module machinectl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sim_1/imports/sim/ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sim_1/imports/sim/rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/14551/Desktop/riscv-invicta-master/17010160051/NO157/Question1/vivado/project_1.srcs/sim_1/imports/sim/cputop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cputop

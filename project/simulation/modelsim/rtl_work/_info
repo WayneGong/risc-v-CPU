@@ -1,0 +1,319 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/simulation/modelsim
+vaccum
+Z1 !s110 1583431795
+!i10b 1
+!s100 `Ciall?NR>5c_Dab26bbi2
+Ik59E^nAZA8QVfOaLck3Jn2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1559140624
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1583431795.000000
+Z5 !s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v|
+Z6 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src
+Z9 tCvgOpt 0
+vaddr_decode
+R1
+!i10b 1
+!s100 BW519_SQm?akLd@dXUYc:1
+I:51L?@XmARLk96hTG51Mi0
+R2
+R0
+w1559140802
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v|
+!i113 1
+R7
+Z10 !s92 -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src
+R9
+vadr
+R1
+!i10b 1
+!s100 99ZfF`l]GH@cd@NMV_00Z2
+IZV6?F=zgoonYYUSWOFR;02
+R2
+R0
+w1559140628
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+valu
+R1
+!i10b 1
+!s100 6B[<Ac1jHFN56ELfZoFIl2
+IE66zh8Z9beNnC_c1@AT;h2
+R2
+R0
+w1559140640
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vCLKSOURCE
+R1
+!i10b 1
+!s100 `GZ@e^ZQfi8E0dJL>WDa]2
+IVF_@o?COkT01T8N=U7mOS2
+R2
+R0
+w1559140620
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+n@c@l@k@s@o@u@r@c@e
+vcounter
+R1
+!i10b 1
+!s100 H^6ClLhggbT`MnhNN4X1X2
+I_AC7;gN=d;4oBVUlAP5;S1
+R2
+R0
+w1559140648
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vcpu
+R1
+!i10b 1
+!s100 O7>;9h95F^n=kQ34Kf0Uo2
+I^ZHGEdaenNGKQH_^Ibj^70
+R2
+R0
+w1559222120
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v
+L0 32
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vcputop
+R1
+!i10b 1
+!s100 E0o_^lW:aORLJP]32VBR>0
+I6[ofO?XMj_SaOlW<mIhLf1
+R2
+R0
+w1576058386
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v
+L0 16
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim
+R9
+vdatactl
+R1
+!i10b 1
+!s100 R9oZ<Vz::fR4YImVC:^V90
+I2`A01CX?>6GPH7]Db;ZYj3
+R2
+R0
+w1559140658
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+virregister
+R1
+!i10b 1
+!s100 AS<I4oVRlh7DnklG9fDzS1
+IFb4111GeRjg>lRNSRdel70
+R2
+R0
+w1559140664
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vmachine
+R1
+!i10b 1
+!s100 hGiAYI`G[nA9bZi]7E9DE2
+IGmPolg3Sk_6>i9?MI2@OA2
+R2
+R0
+w1559140676
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vmachinectl
+R1
+!i10b 1
+!s100 3SaE0Mc[hn3S<X0z]2B`G3
+IQo1kaaKG5[DBRn9[56<Hj0
+R2
+R0
+w1559140682
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+R9
+vram
+R1
+!i10b 1
+!s100 cQGQh;LG@F]9R:4=X@Snz1
+I@_54Fee`8[8Mbk[9[oL6>0
+R2
+R0
+w1559140854
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v|
+!i113 1
+R7
+R10
+R9
+vrom
+R1
+!i10b 1
+!s100 _k:RB?TC^_l2[K9LFLOm[0
+IhETjHn:ER5BDSBc_E7Kl`2
+R2
+R0
+w1559140864
+8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v
+FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v|
+!i113 1
+R7
+R10
+R9

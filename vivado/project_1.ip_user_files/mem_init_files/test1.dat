@@ -1,0 +1,7 @@
+@00  //addrress statement at RAM
+ 0000_0000_0000_0000  //800 DATA_1: //constant 00(hex)
+ 0000_0000_0000_1001  //801 DATA_2: //constant FF(hex)
+ 0000_0000_1000_1110  //802 TEMP :  //variable start with AA(hex)
+ 0000_0000_0000_1101   //803 DATA_3
+ 0000_0000_0010_0010   //804 DATA_4
+ 0000_0000_1111_1111   //805 DATA_5

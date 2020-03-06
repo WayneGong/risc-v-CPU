@@ -1,0 +1,5 @@
+@00
+0000_0001 //1800  DATA_1£º //constant 1(hex)
+1010_1010 //1801  DATA_2£º  //constant AA(hex)
+1111_1111 //1802  DATA_3£º //comstant FF(hex)
+0000_0000  //1803  TEMP:
