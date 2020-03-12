@@ -1,5 +1,5 @@
 Flow report for cpu
-Fri Mar 06 01:57:32 2020
+Thu Mar 12 23:55:39 2020
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Standard Edition
 
 
@@ -40,7 +40,7 @@ refer to the applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Flow Summary                                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Flow Status                        ; Successful - Fri Mar 06 01:57:32 2020           ;
+; Flow Status                        ; Successful - Thu Mar 12 23:55:39 2020           ;
 ; Quartus Prime Version              ; 18.1.0 Build 625 09/12/2018 SJ Standard Edition ;
 ; Revision Name                      ; cpu                                             ;
 ; Top-level Entity Name              ; cpu                                             ;
@@ -62,7 +62,7 @@ refer to the applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 03/06/2020 01:57:10 ;
+; Start date & time ; 03/12/2020 23:55:27 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; cpu                 ;
 +-------------------+---------------------+
@@ -73,7 +73,7 @@ refer to the applicable agreement for further details.
 +--------------------------------------+----------------------------------------+---------------+-------------+----------------+
 ; Assignment Name                      ; Value                                  ; Default Value ; Entity Name ; Section Id     ;
 +--------------------------------------+----------------------------------------+---------------+-------------+----------------+
-; COMPILER_SIGNATURE_ID                ; 79871130321236.158343102910608         ; --            ; --          ; --             ;
+; COMPILER_SIGNATURE_ID                ; 79871130321236.158402852605060         ; --            ; --          ; --             ;
 ; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --          ; cputop         ;
 ; EDA_NATIVELINK_SIMULATION_TEST_BENCH ; cputop                                 ; --            ; --          ; eda_simulation ;
 ; EDA_OUTPUT_DATA_FORMAT               ; Verilog Hdl                            ; --            ; --          ; eda_simulation ;
@@ -106,8 +106,8 @@ refer to the applicable agreement for further details.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:00:22     ; 1.0                     ; 4730 MB             ; 00:00:43                           ;
-; Total                ; 00:00:22     ; --                      ; --                  ; 00:00:43                           ;
+; Analysis & Synthesis ; 00:00:14     ; 1.0                     ; 4728 MB             ; 00:00:27                           ;
+; Total                ; 00:00:14     ; --                      ; --                  ; 00:00:27                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
@@ -116,7 +116,7 @@ refer to the applicable agreement for further details.
 +----------------------+------------------+------------+------------+----------------+
 ; Module Name          ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
 +----------------------+------------------+------------+------------+----------------+
-; Analysis & Synthesis ; DESKTOP-FMRBH1L  ; Windows 10 ; 10.0       ; x86_64         ;
+; Analysis & Synthesis ; DESKTOP-GONG     ; Windows 10 ; 10.0       ; x86_64         ;
 +----------------------+------------------+------------+------------+----------------+
 
 

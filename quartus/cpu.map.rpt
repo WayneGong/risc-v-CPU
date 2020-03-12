@@ -1,5 +1,5 @@
 Analysis & Synthesis report for cpu
-Fri Mar 06 01:57:32 2020
+Thu Mar 12 23:55:39 2020
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Standard Edition
 
 
@@ -52,7 +52,7 @@ refer to the applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Fri Mar 06 01:57:32 2020           ;
+; Analysis & Synthesis Status        ; Successful - Thu Mar 12 23:55:39 2020           ;
 ; Quartus Prime Version              ; 18.1.0 Build 625 09/12/2018 SJ Standard Edition ;
 ; Revision Name                      ; cpu                                             ;
 ; Top-level Entity Name              ; cpu                                             ;
@@ -170,29 +170,29 @@ refer to the applicable agreement for further details.
 +----------------------------+-------------+
 
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                               ;
-+----------------------------------+-----------------+------------------------------+----------------------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type                    ; File Name with Absolute Path                                                           ; Library ;
-+----------------------------------+-----------------+------------------------------+----------------------------------------------------------------------------------------+---------+
-; ../src/machinectl.v              ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v        ;         ;
-; ../src/machine.v                 ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v           ;         ;
-; ../src/irregister.v              ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v        ;         ;
-; ../src/datactl.v                 ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v           ;         ;
-; ../src/counter.v                 ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v           ;         ;
-; ../src/CLKSOURCE.v               ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v         ;         ;
-; ../src/alu.v                     ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v               ;         ;
-; ../src/adr.v                     ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v               ;         ;
-; ../src/accum.v                   ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v             ;         ;
-; ../src/cpu.v                     ; yes             ; User Verilog HDL File        ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v               ;         ;
-; lpm_mult.tdf                     ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/lpm_mult.tdf                         ;         ;
-; aglobal181.inc                   ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/aglobal181.inc                       ;         ;
-; lpm_add_sub.inc                  ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/lpm_add_sub.inc                      ;         ;
-; multcore.inc                     ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/multcore.inc                         ;         ;
-; bypassff.inc                     ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/bypassff.inc                         ;         ;
-; altshift.inc                     ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/altshift.inc                         ;         ;
-; db/mult_7dt.tdf                  ; yes             ; Auto-Generated Megafunction  ; E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/db/mult_7dt.tdf ;         ;
-+----------------------------------+-----------------+------------------------------+----------------------------------------------------------------------------------------+---------+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                          ;
++----------------------------------+-----------------+------------------------------+-------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type                    ; File Name with Absolute Path                                      ; Library ;
++----------------------------------+-----------------+------------------------------+-------------------------------------------------------------------+---------+
+; ../src/machinectl.v              ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/machinectl.v                          ;         ;
+; ../src/machine.v                 ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/machine.v                             ;         ;
+; ../src/irregister.v              ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/irregister.v                          ;         ;
+; ../src/datactl.v                 ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/datactl.v                             ;         ;
+; ../src/cpu.v                     ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/cpu.v                                 ;         ;
+; ../src/counter.v                 ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/counter.v                             ;         ;
+; ../src/CLKSOURCE.v               ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v                           ;         ;
+; ../src/alu.v                     ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/alu.v                                 ;         ;
+; ../src/adr.v                     ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/adr.v                                 ;         ;
+; ../src/accum.v                   ; yes             ; User Verilog HDL File        ; D:/00_GitHub/risc-v-CPU/src/accum.v                               ;         ;
+; lpm_mult.tdf                     ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/lpm_mult.tdf    ;         ;
+; aglobal181.inc                   ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/aglobal181.inc  ;         ;
+; lpm_add_sub.inc                  ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/lpm_add_sub.inc ;         ;
+; multcore.inc                     ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/multcore.inc    ;         ;
+; bypassff.inc                     ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/bypassff.inc    ;         ;
+; altshift.inc                     ; yes             ; Megafunction                 ; c:/intelfpga/18.1/quartus/libraries/megafunctions/altshift.inc    ;         ;
+; db/mult_7dt.tdf                  ; yes             ; Auto-Generated Megafunction  ; D:/00_GitHub/risc-v-CPU/quartus/db/mult_7dt.tdf                   ;         ;
++----------------------------------+-----------------+------------------------------+-------------------------------------------------------------------+---------+
 
 
 +--------------------------------------------------------------------------------------+
@@ -493,7 +493,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:03     ;
+; Top            ; 00:00:01     ;
 +----------------+--------------+
 
 
@@ -503,47 +503,44 @@ Note: In order to hide this table in the UI and the text report file, please set
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 18.1.0 Build 625 09/12/2018 SJ Standard Edition
-    Info: Processing started: Fri Mar 06 01:57:09 2020
+    Info: Processing started: Thu Mar 12 23:55:25 2020
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off cpu -c cpu
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
-Warning (12019): Can't analyze file -- file ../src/rom.v is missing
-Warning (12019): Can't analyze file -- file ../src/ram.v is missing
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/machinectl.v
-    Info (12023): Found entity 1: machinectl File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v Line: 3
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/machine.v
-    Info (12023): Found entity 1: machine File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v Line: 3
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/irregister.v
-    Info (12023): Found entity 1: irregister File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v Line: 3
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/datactl.v
-    Info (12023): Found entity 1: datactl File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v Line: 2
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/counter.v
-    Info (12023): Found entity 1: counter File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v Line: 4
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/clksource.v
-    Info (12023): Found entity 1: CLKSOURCE File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v Line: 3
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/alu.v
-    Info (12023): Found entity 1: alu File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v Line: 4
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/adr.v
-    Info (12023): Found entity 1: adr File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v Line: 3
-Warning (12019): Can't analyze file -- file ../src/addr_decode.v is missing
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/accum.v
-    Info (12023): Found entity 1: accum File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v Line: 3
-Info (12021): Found 1 design units, including 1 entities, in source file /00_project/riscv-invicta-master/17010160051/no157/question1/src/cpu.v
-    Info (12023): Found entity 1: cpu File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 32
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/machinectl.v
+    Info (12023): Found entity 1: machinectl File: D:/00_GitHub/risc-v-CPU/src/machinectl.v Line: 3
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/machine.v
+    Info (12023): Found entity 1: machine File: D:/00_GitHub/risc-v-CPU/src/machine.v Line: 3
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/irregister.v
+    Info (12023): Found entity 1: irregister File: D:/00_GitHub/risc-v-CPU/src/irregister.v Line: 3
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/datactl.v
+    Info (12023): Found entity 1: datactl File: D:/00_GitHub/risc-v-CPU/src/datactl.v Line: 2
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/cpu.v
+    Info (12023): Found entity 1: cpu File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 32
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/counter.v
+    Info (12023): Found entity 1: counter File: D:/00_GitHub/risc-v-CPU/src/counter.v Line: 4
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/clksource.v
+    Info (12023): Found entity 1: CLKSOURCE File: D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v Line: 3
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/alu.v
+    Info (12023): Found entity 1: alu File: D:/00_GitHub/risc-v-CPU/src/alu.v Line: 4
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/adr.v
+    Info (12023): Found entity 1: adr File: D:/00_GitHub/risc-v-CPU/src/adr.v Line: 3
+Info (12021): Found 1 design units, including 1 entities, in source file /00_github/risc-v-cpu/src/accum.v
+    Info (12023): Found entity 1: accum File: D:/00_GitHub/risc-v-CPU/src/accum.v Line: 3
 Info (12127): Elaborating entity "cpu" for the top level hierarchy
-Info (12128): Elaborating entity "CLKSOURCE" for hierarchy "CLKSOURCE:m_CLKSOURCE" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 88
-Info (12128): Elaborating entity "irregister" for hierarchy "irregister:m_irregister" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 90
-Info (12128): Elaborating entity "accum" for hierarchy "accum:m_accum" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 92
-Info (12128): Elaborating entity "alu" for hierarchy "alu:m_alu" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 94
-Info (12128): Elaborating entity "machinectl" for hierarchy "machinectl:m_machinectl" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 96
-Info (12128): Elaborating entity "machine" for hierarchy "machine:m_machine" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 100
-Info (12128): Elaborating entity "datactl" for hierarchy "datactl:m_datactl" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 102
-Info (12128): Elaborating entity "adr" for hierarchy "adr:m_adr" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 104
-Info (12128): Elaborating entity "counter" for hierarchy "counter:m_counter" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v Line: 106
+Info (12128): Elaborating entity "CLKSOURCE" for hierarchy "CLKSOURCE:m_CLKSOURCE" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 88
+Info (12128): Elaborating entity "irregister" for hierarchy "irregister:m_irregister" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 90
+Info (12128): Elaborating entity "accum" for hierarchy "accum:m_accum" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 92
+Info (12128): Elaborating entity "alu" for hierarchy "alu:m_alu" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 94
+Info (12128): Elaborating entity "machinectl" for hierarchy "machinectl:m_machinectl" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 96
+Info (12128): Elaborating entity "machine" for hierarchy "machine:m_machine" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 100
+Info (12128): Elaborating entity "datactl" for hierarchy "datactl:m_datactl" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 102
+Info (12128): Elaborating entity "adr" for hierarchy "adr:m_adr" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 104
+Info (12128): Elaborating entity "counter" for hierarchy "counter:m_counter" File: D:/00_GitHub/risc-v-CPU/src/cpu.v Line: 106
 Info (278001): Inferred 1 megafunctions from design logic
-    Info (278003): Inferred multiplier megafunction ("lpm_mult") from the following logic: "alu:m_alu|Mult0" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v Line: 58
-Info (12130): Elaborated megafunction instantiation "alu:m_alu|lpm_mult:Mult0" File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v Line: 58
-Info (12133): Instantiated megafunction "alu:m_alu|lpm_mult:Mult0" with the following parameter: File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v Line: 58
+    Info (278003): Inferred multiplier megafunction ("lpm_mult") from the following logic: "alu:m_alu|Mult0" File: D:/00_GitHub/risc-v-CPU/src/alu.v Line: 58
+Info (12130): Elaborated megafunction instantiation "alu:m_alu|lpm_mult:Mult0" File: D:/00_GitHub/risc-v-CPU/src/alu.v Line: 58
+Info (12133): Instantiated megafunction "alu:m_alu|lpm_mult:Mult0" with the following parameter: File: D:/00_GitHub/risc-v-CPU/src/alu.v Line: 58
     Info (12134): Parameter "LPM_WIDTHA" = "16"
     Info (12134): Parameter "LPM_WIDTHB" = "16"
     Info (12134): Parameter "LPM_WIDTHP" = "32"
@@ -554,7 +551,7 @@ Info (12133): Instantiated megafunction "alu:m_alu|lpm_mult:Mult0" with the foll
     Info (12134): Parameter "INPUT_B_IS_CONSTANT" = "NO"
     Info (12134): Parameter "MAXIMIZE_SPEED" = "6"
 Info (12021): Found 1 design units, including 1 entities, in source file db/mult_7dt.tdf
-    Info (12023): Found entity 1: mult_7dt File: E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/db/mult_7dt.tdf Line: 28
+    Info (12023): Found entity 1: mult_7dt File: D:/00_GitHub/risc-v-CPU/quartus/db/mult_7dt.tdf Line: 28
 Info (17049): 3 registers lost all their fanouts during netlist optimizations.
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
@@ -564,10 +561,10 @@ Info (21057): Implemented 366 device resources after synthesis - the final resou
     Info (21060): Implemented 16 bidirectional pins
     Info (21061): Implemented 302 logic cells
     Info (21062): Implemented 2 DSP elements
-Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 4 warnings
-    Info: Peak virtual memory: 4744 megabytes
-    Info: Processing ended: Fri Mar 06 01:57:32 2020
-    Info: Elapsed time: 00:00:23
-    Info: Total CPU time (on all processors): 00:00:43
+Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4736 megabytes
+    Info: Processing ended: Thu Mar 12 23:55:39 2020
+    Info: Elapsed time: 00:00:14
+    Info: Total CPU time (on all processors): 00:00:27
 
 

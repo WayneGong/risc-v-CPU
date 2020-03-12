@@ -17,15 +17,15 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-`include "CLKSOURCE.v"
-`include "accum.v"
-`include "adr.v"
-`include "alu.v"
-`include "machine.v"
-`include "counter.v"
-`include "machinectl.v"
-`include "irregister.v"
-`include "datactl.v"
+//`include "CLKSOURCE.v"
+//`include "accum.v"
+//`include "adr.v"
+//`include "alu.v"
+//`include "machine.v"
+//`include "counter.v"
+//`include "machinectl.v"
+//`include "irregister.v"
+//`include "datactl.v"
 
 `timescale 1ns/1ns
    //the start of module

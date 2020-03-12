@@ -10,160 +10,296 @@
 # Copying C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
 # Modifying modelsim.ini
 # 
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/machinectl.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:53 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v 
+# Start time: 23:59:11 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/machinectl.v 
 # -- Compiling module machinectl
 # 
 # Top level modules:
 # 	machinectl
-# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:01
+# End time: 23:59:11 on Mar 12,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/machine.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:54 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v 
+# Start time: 23:59:11 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/machine.v 
 # -- Compiling module machine
 # 
 # Top level modules:
 # 	machine
-# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# End time: 23:59:11 on Mar 12,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/irregister.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:54 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v 
+# Start time: 23:59:11 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/irregister.v 
 # -- Compiling module irregister
 # 
 # Top level modules:
 # 	irregister
-# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# End time: 23:59:11 on Mar 12,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/datactl.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:54 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v 
+# Start time: 23:59:11 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/datactl.v 
 # -- Compiling module datactl
 # 
 # Top level modules:
 # 	datactl
-# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
+# End time: 23:59:11 on Mar 12,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/cpu.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:54 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v 
-# -- Compiling module counter
-# 
-# Top level modules:
-# 	counter
-# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v}
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:54 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v 
-# -- Compiling module CLKSOURCE
-# 
-# Top level modules:
-# 	CLKSOURCE
-# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v}
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:54 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v 
-# -- Compiling module alu
-# 
-# Top level modules:
-# 	alu
-# End time: 02:09:54 on Mar 06,2020, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v}
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:55 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v 
-# -- Compiling module adr
-# 
-# Top level modules:
-# 	adr
-# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v}
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:55 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v 
-# -- Compiling module accum
-# 
-# Top level modules:
-# 	accum
-# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v}
-# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:55 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v 
-# -- Compiling module CLKSOURCE
-# -- Compiling module accum
-# -- Compiling module adr
-# -- Compiling module alu
-# -- Compiling module machine
-# -- Compiling module counter
-# -- Compiling module machinectl
-# -- Compiling module irregister
-# -- Compiling module datactl
+# Start time: 23:59:11 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/cpu.v 
 # -- Compiling module cpu
 # 
 # Top level modules:
 # 	cpu
-# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# End time: 23:59:12 on Mar 12,2020, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# 
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/counter.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:55 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v 
-# -- Compiling module cputop
+# Start time: 23:59:12 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/counter.v 
+# -- Compiling module counter
 # 
 # Top level modules:
-# 	cputop
-# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# 	counter
+# End time: 23:59:12 on Mar 12,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:55 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v 
+# Start time: 23:59:12 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v 
+# -- Compiling module CLKSOURCE
+# 
+# Top level modules:
+# 	CLKSOURCE
+# End time: 23:59:12 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/alu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:12 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/alu.v 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 23:59:12 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/adr.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:12 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/adr.v 
+# -- Compiling module adr
+# 
+# Top level modules:
+# 	adr
+# End time: 23:59:12 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/accum.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:12 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/accum.v 
+# -- Compiling module accum
+# 
+# Top level modules:
+# 	accum
+# End time: 23:59:12 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim {D:/00_GitHub/risc-v-CPU/quartus/../sim/addr_decode.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:12 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim" D:/00_GitHub/risc-v-CPU/quartus/../sim/addr_decode.v 
 # -- Compiling module addr_decode
 # 
 # Top level modules:
 # 	addr_decode
-# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# End time: 23:59:12 on Mar 12,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim {D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:55 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v 
+# Start time: 23:59:12 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim" D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v 
+# -- Compiling module ram
+# -- Compiling module rom
+# -- Compiling module addr_decode
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(4): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/CLKSOURCE.v".
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(5): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/accum.v".
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(6): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/adr.v".
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(7): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/alu.v".
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(8): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/machine.v".
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(9): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/counter.v".
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(10): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/machinectl.v".
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(11): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/irregister.v".
+# ** Error: D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(12): Cannot open `include file "D:/00_GitHub/risc-v-CPU/quartus/../sim/datactl.v".
+# -- Compiling module cputop
+# End time: 23:59:12 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 9, Warnings: 0
+# ** Error: C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./cpu_run_msim_rtl_verilog.do line 20
+# C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim {D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v}"
+do cpu_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/machinectl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/machinectl.v 
+# -- Compiling module machinectl
+# 
+# Top level modules:
+# 	machinectl
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/machine.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/machine.v 
+# -- Compiling module machine
+# 
+# Top level modules:
+# 	machine
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/irregister.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/irregister.v 
+# -- Compiling module irregister
+# 
+# Top level modules:
+# 	irregister
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/datactl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/datactl.v 
+# -- Compiling module datactl
+# 
+# Top level modules:
+# 	datactl
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/cpu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/cpu.v 
+# -- Compiling module cpu
+# 
+# Top level modules:
+# 	cpu
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/counter.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/counter.v 
+# -- Compiling module counter
+# 
+# Top level modules:
+# 	counter
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v 
+# -- Compiling module CLKSOURCE
+# 
+# Top level modules:
+# 	CLKSOURCE
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/alu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/alu.v 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/adr.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:33 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/adr.v 
+# -- Compiling module adr
+# 
+# Top level modules:
+# 	adr
+# End time: 23:59:33 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src {D:/00_GitHub/risc-v-CPU/src/accum.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:34 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/src" D:/00_GitHub/risc-v-CPU/src/accum.v 
+# -- Compiling module accum
+# 
+# Top level modules:
+# 	accum
+# End time: 23:59:34 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim {D:/00_GitHub/risc-v-CPU/quartus/../sim/addr_decode.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:34 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim" D:/00_GitHub/risc-v-CPU/quartus/../sim/addr_decode.v 
+# -- Compiling module addr_decode
+# 
+# Top level modules:
+# 	addr_decode
+# End time: 23:59:34 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim {D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:34 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim" D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v 
+# -- Compiling module cputop
+# 
+# Top level modules:
+# 	cputop
+# End time: 23:59:34 on Mar 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim {D:/00_GitHub/risc-v-CPU/quartus/../sim/ram.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:59:34 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim" D:/00_GitHub/risc-v-CPU/quartus/../sim/ram.v 
 # -- Compiling module ram
 # 
 # Top level modules:
 # 	ram
-# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# End time: 23:59:34 on Mar 12,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src {E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v}
+# vlog -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim {D:/00_GitHub/risc-v-CPU/quartus/../sim/rom.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 02:09:55 on Mar 06,2020
-# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src" E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v 
+# Start time: 23:59:34 on Mar 12,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim" D:/00_GitHub/risc-v-CPU/quartus/../sim/rom.v 
 # -- Compiling module rom
 # 
 # Top level modules:
 # 	rom
-# End time: 02:09:55 on Mar 06,2020, Elapsed time: 0:00:00
+# End time: 23:59:34 on Mar 12,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  cputop
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" cputop 
-# Start time: 02:09:57 on Mar 06,2020
+# Start time: 23:59:34 on Mar 12,2020
 # Loading work.cputop
 # Loading work.cpu
 # Loading work.CLKSOURCE
@@ -261,8 +397,8 @@
 #    33510.0ns  037  ????  xxx  zzzz
 #    34110.0ns  038  ????  xxx  zzzz
 #    34710.0ns  039  ????  xxx  zzzz
-# ** Note: $stop    : E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v(44)
+# ** Note: $stop    : D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v(44)
 #    Time: 35241 ns  Iteration: 0  Instance: /cputop
-# Break in Module cputop at E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v line 44
-# End time: 02:10:34 on Mar 06,2020, Elapsed time: 0:00:37
+# Break in Module cputop at D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v line 44
+# End time: 23:59:42 on Mar 12,2020, Elapsed time: 0:00:08
 # Errors: 0, Warnings: 0

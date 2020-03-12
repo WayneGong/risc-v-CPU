@@ -25,14 +25,14 @@ wire[3:0] opcode;
 wire fetch;
 wire[11:0] ir_addr,pc_addr;
 
-//-----cpuÄ£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ROMï¿½ï¿½RAMï¿½ï¿½ï¿½ï¿½Ó²ï¿½ï¿½ï¿½------------
+//-----cpuÄ£¿éÓëµØÖ·ÒëÂëÆ÷ºÍROM£¬RAMµÄÁ¬½Ó²¿·Ö------------
 cpu t_cpu(.clk(clock),.reset(reset_req),.halt(halt),.rd(rd),.wr(wr),.addr(addr),
            .data(data),.opcode(opcode),.fetch(fetch),.ir_addr(ir_addr),.pc_addr(pc_addr));
 ram t_ram(.addr(addr[8:0]),.read(rd),.write(wr),.ena(ram_sel),.data(data));
 rom t_rom(.addr(addr),.read(rd),.ena(rom_sel),.data(data));
 addr_decode t_addr_decode(.addr(addr),.ram_sel(ram_sel),.rom_sel(rom_sel));
 
-//-----CPUÄ£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ROM,RAMï¿½ï¿½ï¿½ï¿½Ó²ï¿½ï¿½Ö½ï¿½ï¿½ï¿½-----------
+//-----CPUÄ£¿éÓëµØÖ·ÒëÂëÆ÷ºÍROM,RAMµÄÁ¬½Ó²¿·Ö½áÊø-----------
 initial
   begin
     clock = 1;

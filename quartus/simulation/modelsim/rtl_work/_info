@@ -7,313 +7,313 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/simulation/modelsim
+Z0 dD:/00_GitHub/risc-v-CPU/quartus/simulation/modelsim
 vaccum
-Z1 !s110 1583431795
+Z1 !s110 1584028774
 !i10b 1
 !s100 `Ciall?NR>5c_Dab26bbi2
-Ik59E^nAZA8QVfOaLck3Jn2
+IWS7:`?=Do@Xgc`Un`9HU?2
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 R0
 w1559140624
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v
+8D:/00_GitHub/risc-v-CPU/src/accum.v
+FD:/00_GitHub/risc-v-CPU/src/accum.v
 L0 3
 Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1583431795.000000
-Z5 !s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/accum.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v|
-Z6 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v|
+Z4 !s108 1584028774.000000
+!s107 D:/00_GitHub/risc-v-CPU/src/accum.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/accum.v|
 !i113 1
-Z7 o-vlog01compat -work work
-Z8 !s92 -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src
-Z9 tCvgOpt 0
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/src
+Z7 tCvgOpt 0
 vaddr_decode
 R1
 !i10b 1
 !s100 BW519_SQm?akLd@dXUYc:1
-I:51L?@XmARLk96hTG51Mi0
+IWeiGJBmk4R`dzMbEhH87G0
 R2
 R0
 w1559140802
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v
+8D:/00_GitHub/risc-v-CPU/quartus/../sim/addr_decode.v
+FD:/00_GitHub/risc-v-CPU/quartus/../sim/addr_decode.v
 L0 3
 R3
 r1
 !s85 0
 31
 R4
-!s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/addr_decode.v|
+!s107 D:/00_GitHub/risc-v-CPU/quartus/../sim/addr_decode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim|D:/00_GitHub/risc-v-CPU/quartus/../sim/addr_decode.v|
 !i113 1
+R5
+Z8 !s92 -vlog01compat -work work +incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim
 R7
-Z10 !s92 -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src
-R9
 vadr
-R1
+Z9 !s110 1584028773
 !i10b 1
 !s100 99ZfF`l]GH@cd@NMV_00Z2
-IZV6?F=zgoonYYUSWOFR;02
+IM29^4Aghn3GC;`?eZRJ[e0
 R2
 R0
 w1559140628
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/adr.v
+8D:/00_GitHub/risc-v-CPU/src/adr.v
+FD:/00_GitHub/risc-v-CPU/src/adr.v
 L0 3
 R3
 r1
 !s85 0
 31
-R4
+Z10 !s108 1584028773.000000
+!s107 D:/00_GitHub/risc-v-CPU/src/adr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/adr.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 valu
-R1
+R9
 !i10b 1
 !s100 6B[<Ac1jHFN56ELfZoFIl2
-IE66zh8Z9beNnC_c1@AT;h2
+Ilim<QAmL^l9N``16i3Zab1
 R2
 R0
 w1559140640
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/alu.v
+8D:/00_GitHub/risc-v-CPU/src/alu.v
+FD:/00_GitHub/risc-v-CPU/src/alu.v
 L0 4
 R3
 r1
 !s85 0
 31
-R4
+R10
+!s107 D:/00_GitHub/risc-v-CPU/src/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/alu.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 vCLKSOURCE
-R1
+R9
 !i10b 1
 !s100 `GZ@e^ZQfi8E0dJL>WDa]2
-IVF_@o?COkT01T8N=U7mOS2
+I369Pj2f4_e]MKUEdLDOLW1
 R2
 R0
 w1559140620
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/CLKSOURCE.v
+8D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v
+FD:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v
 L0 3
 R3
 r1
 !s85 0
 31
-R4
+R10
+!s107 D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/CLKSOURCE.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 n@c@l@k@s@o@u@r@c@e
 vcounter
-R1
+R9
 !i10b 1
 !s100 H^6ClLhggbT`MnhNN4X1X2
-I_AC7;gN=d;4oBVUlAP5;S1
+IdnbaHMOImIc4>gf`C>?o@0
 R2
 R0
 w1559140648
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/counter.v
+8D:/00_GitHub/risc-v-CPU/src/counter.v
+FD:/00_GitHub/risc-v-CPU/src/counter.v
 L0 4
 R3
 r1
 !s85 0
 31
-R4
+R10
+!s107 D:/00_GitHub/risc-v-CPU/src/counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/counter.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 vcpu
-R1
+R9
 !i10b 1
 !s100 O7>;9h95F^n=kQ34Kf0Uo2
-I^ZHGEdaenNGKQH_^Ibj^70
+IEb8QNS>d<4;e=3`d[U^@S1
 R2
 R0
-w1559222120
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/cpu.v
+w1584028484
+8D:/00_GitHub/risc-v-CPU/src/cpu.v
+FD:/00_GitHub/risc-v-CPU/src/cpu.v
 L0 32
 R3
 r1
 !s85 0
 31
-R4
+R10
+!s107 D:/00_GitHub/risc-v-CPU/src/cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/cpu.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 vcputop
 R1
 !i10b 1
 !s100 E0o_^lW:aORLJP]32VBR>0
-I6[ofO?XMj_SaOlW<mIhLf1
+IgL29ZNM>BM3=[ijWS3J`90
 R2
 R0
-w1576058386
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v
+w1584028770
+8D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v
+FD:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v
 L0 16
 R3
 r1
 !s85 0
 31
 R4
-!s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim/cputop.v|
+!s107 D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim|D:/00_GitHub/risc-v-CPU/quartus/../sim/cputop.v|
 !i113 1
+R5
+R8
 R7
-!s92 -vlog01compat -work work +incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../sim
-R9
 vdatactl
-R1
+R9
 !i10b 1
 !s100 R9oZ<Vz::fR4YImVC:^V90
-I2`A01CX?>6GPH7]Db;ZYj3
+IGngQENKho]Ph?lY6]J9:S0
 R2
 R0
 w1559140658
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/datactl.v
+8D:/00_GitHub/risc-v-CPU/src/datactl.v
+FD:/00_GitHub/risc-v-CPU/src/datactl.v
 L0 2
 R3
 r1
 !s85 0
 31
-R4
+R10
+!s107 D:/00_GitHub/risc-v-CPU/src/datactl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/datactl.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 virregister
-R1
+R9
 !i10b 1
 !s100 AS<I4oVRlh7DnklG9fDzS1
-IFb4111GeRjg>lRNSRdel70
+IWe__F2AIk?fI1:zG9X@FH0
 R2
 R0
 w1559140664
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/irregister.v
+8D:/00_GitHub/risc-v-CPU/src/irregister.v
+FD:/00_GitHub/risc-v-CPU/src/irregister.v
 L0 3
 R3
 r1
 !s85 0
 31
-R4
+R10
+!s107 D:/00_GitHub/risc-v-CPU/src/irregister.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/irregister.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 vmachine
-R1
+R9
 !i10b 1
 !s100 hGiAYI`G[nA9bZi]7E9DE2
-IGmPolg3Sk_6>i9?MI2@OA2
+IZAHZdUTmak:KcQ4_QAJMm2
 R2
 R0
 w1559140676
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machine.v
+8D:/00_GitHub/risc-v-CPU/src/machine.v
+FD:/00_GitHub/risc-v-CPU/src/machine.v
 L0 3
 R3
 r1
 !s85 0
 31
-R4
+R10
+!s107 D:/00_GitHub/risc-v-CPU/src/machine.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/machine.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 vmachinectl
-R1
+R9
 !i10b 1
 !s100 3SaE0Mc[hn3S<X0z]2B`G3
-IQo1kaaKG5[DBRn9[56<Hj0
+I3bha>ahj]ejLC^kA@bzhW1
 R2
 R0
 w1559140682
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/src/machinectl.v
+8D:/00_GitHub/risc-v-CPU/src/machinectl.v
+FD:/00_GitHub/risc-v-CPU/src/machinectl.v
 L0 3
 R3
 r1
 !s85 0
 31
-R4
+R10
+!s107 D:/00_GitHub/risc-v-CPU/src/machinectl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/src|D:/00_GitHub/risc-v-CPU/src/machinectl.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
-R8
-R9
 vram
 R1
 !i10b 1
 !s100 cQGQh;LG@F]9R:4=X@Snz1
-I@_54Fee`8[8Mbk[9[oL6>0
+IT9]8OScco@Xnl9FL[478j1
 R2
 R0
 w1559140854
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v
+8D:/00_GitHub/risc-v-CPU/quartus/../sim/ram.v
+FD:/00_GitHub/risc-v-CPU/quartus/../sim/ram.v
 L0 3
 R3
 r1
 !s85 0
 31
 R4
-!s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/ram.v|
+!s107 D:/00_GitHub/risc-v-CPU/quartus/../sim/ram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim|D:/00_GitHub/risc-v-CPU/quartus/../sim/ram.v|
 !i113 1
+R5
+R8
 R7
-R10
-R9
 vrom
 R1
 !i10b 1
 !s100 _k:RB?TC^_l2[K9LFLOm[0
-IhETjHn:ER5BDSBc_E7Kl`2
+IQYD:eSURLhZJ3Xalo1[X_2
 R2
 R0
 w1559140864
-8E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v
-FE:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v
+8D:/00_GitHub/risc-v-CPU/quartus/../sim/rom.v
+FD:/00_GitHub/risc-v-CPU/quartus/../sim/rom.v
 L0 3
 R3
 r1
 !s85 0
 31
 R4
-!s107 E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src|E:/00_Project/riscv-invicta-master/17010160051/NO157/Question1/project/../src/rom.v|
+!s107 D:/00_GitHub/risc-v-CPU/quartus/../sim/rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/00_GitHub/risc-v-CPU/quartus/../sim|D:/00_GitHub/risc-v-CPU/quartus/../sim/rom.v|
 !i113 1
+R5
+R8
 R7
-R10
-R9

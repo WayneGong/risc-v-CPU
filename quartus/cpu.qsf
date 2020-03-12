@@ -58,27 +58,24 @@ set_global_assignment -name EDA_TEST_BENCH_NAME cputop -section_id eda_simulatio
 set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id cputop
 set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME cputop -section_id cputop
 set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
-set_global_assignment -name VERILOG_FILE ../src/rom.v
-set_global_assignment -name VERILOG_FILE ../src/ram.v
 set_global_assignment -name VERILOG_FILE ../src/machinectl.v
 set_global_assignment -name VERILOG_FILE ../src/machine.v
 set_global_assignment -name VERILOG_FILE ../src/irregister.v
 set_global_assignment -name VERILOG_FILE ../src/datactl.v
+set_global_assignment -name VERILOG_FILE ../src/cpu.v
 set_global_assignment -name VERILOG_FILE ../src/counter.v
 set_global_assignment -name VERILOG_FILE ../src/CLKSOURCE.v
 set_global_assignment -name VERILOG_FILE ../src/alu.v
 set_global_assignment -name VERILOG_FILE ../src/adr.v
-set_global_assignment -name VERILOG_FILE ../src/addr_decode.v
 set_global_assignment -name VERILOG_FILE ../src/accum.v
-set_global_assignment -name VERILOG_FILE ../src/cpu.v
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
+set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/addr_decode.v -section_id cputop
 set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/cputop.v -section_id cputop
+set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/ram.v -section_id cputop
+set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/rom.v -section_id cputop
 set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/test1.dat -section_id cputop
 set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/test1.pro -section_id cputop
 set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/test2.dat -section_id cputop
 set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/test2.pro -section_id cputop
 set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/test3.dat -section_id cputop
 set_global_assignment -name EDA_TEST_BENCH_FILE ../sim/test3.pro -section_id cputop
-set_global_assignment -name EDA_TEST_BENCH_FILE ../src/addr_decode.v -section_id cputop
-set_global_assignment -name EDA_TEST_BENCH_FILE ../src/ram.v -section_id cputop
-set_global_assignment -name EDA_TEST_BENCH_FILE ../src/rom.v -section_id cputop
-set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
