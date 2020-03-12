@@ -1,3 +1,6 @@
+quartus/db
+quartus/incremental_db
+quartus/simulation
 
 *.qws
 *.asm.rpt
